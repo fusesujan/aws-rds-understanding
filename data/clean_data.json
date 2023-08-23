@@ -1,0 +1,203 @@
+{
+"suzan_player_info": [
+	{
+		"player_id" : 1,
+		"full_name" : "G",
+		"position" : "Oklahoma City Thunder",
+		"team" : "Oklahoma City",
+		"city" : "Alex Abrines",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 14,
+		"full_name" : "C",
+		"position" : "Indiana Pacers",
+		"team" : "Indiana",
+		"city" : "Ike Anigbogu",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 25,
+		"full_name" : "G",
+		"position" : "New York Knicks",
+		"team" : "New York",
+		"city" : "Ron Baker",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 47,
+		"full_name" : "G",
+		"position" : "Boston Celtics",
+		"team" : "Boston",
+		"city" : "Jabari Bird",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 67,
+		"full_name" : "G",
+		"position" : "Memphis Grizzlies",
+		"team" : "Memphis",
+		"city" : "MarShon Brooks",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 71,
+		"full_name" : "G",
+		"position" : "Toronto Raptors",
+		"team" : "Toronto",
+		"city" : "Lorenzo Brown",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 90,
+		"full_name" : "F",
+		"position" : "Memphis Grizzlies",
+		"team" : "Memphis",
+		"city" : "Omri Casspi",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 119,
+		"full_name" : "C",
+		"position" : "Oklahoma City Thunder",
+		"team" : "Oklahoma City",
+		"city" : "Tyler Davis",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 149,
+		"full_name" : "G",
+		"position" : "Detroit Pistons",
+		"team" : "Detroit",
+		"city" : "Keenan Evans",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 179,
+		"full_name" : "C",
+		"position" : "LA Clippers",
+		"team" : "LA",
+		"city" : "Marcin Gortat",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 241,
+		"full_name" : "C-F",
+		"position" : "Philadelphia 76ers",
+		"team" : "Philadelphia",
+		"city" : "Amir Johnson",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 263,
+		"full_name" : "C",
+		"position" : "Sacramento Kings",
+		"team" : "Sacramento",
+		"city" : "Kosta Koufos",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 281,
+		"full_name" : "G",
+		"position" : "Detroit Pistons",
+		"team" : "Detroit",
+		"city" : "Zach Lofton",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 382,
+		"full_name" : "F",
+		"position" : "Cleveland Cavaliers",
+		"team" : "Cleveland",
+		"city" : "Billy Preston",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 384,
+		"full_name" : "F-C",
+		"position" : "Houston Rockets",
+		"team" : "Houston",
+		"city" : "Zhou Qi",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 388,
+		"full_name" : "F",
+		"position" : "Sacramento Kings",
+		"team" : "Sacramento",
+		"city" : "Zach Randolph",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 392,
+		"full_name" : "G",
+		"position" : "Utah Jazz",
+		"team" : "Utah",
+		"city" : "Malachi Richardson",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 430,
+		"full_name" : "G-F",
+		"position" : "Memphis Grizzlies",
+		"team" : "Memphis",
+		"city" : "DJ Stephens",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 437,
+		"full_name" : "G",
+		"position" : "LA Clippers",
+		"team" : "LA",
+		"city" : "Milos Teodosic",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	},
+	{
+		"player_id" : 1593,
+		"full_name" : "F",
+		"position" : "Golden State Warriors",
+		"team" : "Golden State",
+		"city" : "Andrew Bogut",
+		"height_feet" : null,
+		"height_inches" : null,
+		"weight_pounds" : null
+	}
+]}
