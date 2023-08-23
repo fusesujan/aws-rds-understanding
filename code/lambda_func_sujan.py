@@ -97,7 +97,7 @@ def lambda_handler(event, context):
     sorted_data = modified_df[reordered_columns]
     print(sorted_data)
     #deleting some rows whose  most of the values are null
-    sorted_data = sorted_data.drop(columns=['height_feet','height_inches','weight_pounds'])
+    #sorted_data = sorted_data.drop(columns=['height_feet','height_inches','weight_pounds'])
 
     # # converting it back to json 
     final_json_data = sorted_data.to_json(orient="records")
